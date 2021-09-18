@@ -7,3 +7,5 @@ Empecé a respirar en 1996, nací y crecí  en Valencia aunque actualmente vivo 
 Esto realmente es un ejemplo para saber cómo crear archivos "Readme" y así, cuando la semana que viene demos en clase Docker, no nos pille desnudos el profesor.
 
 Actualmente estamos viendo los fundamentos de programación, cómo movernos a través del "menú" de una máquina virtual y cómo crear/alquilar una.
+
+Cambio 1
